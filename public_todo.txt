@@ -8,6 +8,7 @@ proof-read the whitepaper
 start a reddit community (at least reserve the subreddit name)
 make the metadata for the token (get the raw links from github)
 setup a new wallet for the geneis token, and fund it from binance
+setup a new wallet for donations
 
 completed:
 MOST IMPORTANT: design good tokenomics!
