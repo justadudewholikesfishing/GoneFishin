@@ -1,0 +1,17 @@
+public_todo:
+make a telegram account
+set up a telegram bot
+point to URL to the git repo first
+create a real webpage
+finish the whitepaper
+proof-read the whitepaper
+start a reddit community (at least reserve the subreddit name)
+make the metadata for the token (get the raw links from github)
+
+completed:
+MOST IMPORTANT: design good tokenomics!
+name the project: Gone Fishin - DONE
+design a logo - get inspiration from solana
+register a webpage: gonefishin.life (".life" is closer to the vibe than ".io")
+X account:
+Reddit account:
