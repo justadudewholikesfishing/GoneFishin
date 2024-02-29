@@ -1,2 +1,3 @@
-assets/logo/generated*
-assets/logo/tmp*
+assets/logo/private/*
+assets/logo/generated/*
+assets/logo/tmp/*
