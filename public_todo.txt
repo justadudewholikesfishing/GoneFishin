@@ -6,8 +6,10 @@ create a real webpage
 finish the whitepaper
 proof-read the whitepaper
 start a reddit community (at least reserve the subreddit name)
-make the metadata for the token (get the raw links from github)
-setup a new wallet for the geneis token, and fund it from kucoin
+finish the google form for the airdrop
+
+
+
 setup a new wallet for donations
 
 completed:
@@ -17,3 +19,5 @@ design a logo - get inspiration from solana
 register a webpage: gonefishin.life (".life" is closer to the vibe than ".io")
 X account:
 Reddit account:
+make the metadata for the token (get the raw links from github)
+setup a new wallet for the geneis token, and fund it from kucoin
