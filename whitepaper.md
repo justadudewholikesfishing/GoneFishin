@@ -22,7 +22,7 @@
 - Renounced contract ownership
 - NOT a staking coin!
 - Give back to the community via token burns
-- Sustainability: the project's will continue even when the last token will be sold off (some would say it will only then begin!)
+- Sustainability: the project will continue even when the last token will be sold off (some would say it will only then begin!)
 - Everyone is equal, even the team members have to purchase the coin if they want to participate in the ecosystem - if they believe in the core principles, they know it's worth it!
 
 
