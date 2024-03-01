@@ -30,7 +30,15 @@
 The total token supply is: 1234567891
 Why? Because it is a prime number
 
+
+
+MENTION  THE DONATIONS!
+
+
+
 You can notice from the diagram that there are no angel investors, VCs, no "reserves for the team", nobody bought the token on pre-sale. The only way to obtain the token is on the open market or via the airdrop. This has the added benefit of no price-pressure from "early-investors".
+
+The price of the token is calculated in Solana (SOL) instead of USDC. Remember the core principle: we are in crypto to distance ourselves from the fiat system. At the end of the day we want to have more crypto, not more fiat.
 
 ## Problem:
 
@@ -50,22 +58,91 @@ Portion of the token supply will be sold on the free market when the price reach
 
 This way, if the project is successful, it will increase the price, and more tokens will be unlocked for sale. We fail to build a community, the price will lag behind, but there will be no token sales to further suppress the price.
 
+This can be mathematically defined in a simple and elegant way:
 
+token_price_in_SOL = 0.0001 ^ (token_supply_percent / 37)
 
+Why 37 you ask? Excellent question! Because it is a prime number!
+
+Look at the following diagram for easier explanation
+[image of linear diagram]
+
+This is the same diagram in the logarythmic format
+[image of logarytmic diagram]
+
+** The diagrams DOES NOT represent the price action, it just illustrates what percentage of the token-supply will be unlocked if the token reach a certain price! **
+
+Let's look at some real-world examples:
+The initial token price will be 0.0001 SOL per 1 FISHIN . That means for every SOL you will receive 10.000 FISHIN tokens.
+
+Once the price hit 0.0002 per 1 FISHIN token, approximately 10.8% percent of the token supply will be in the circulation.
+
+Once the price does 10X from the initial price 0.001 SOL per 1 FISHIN or 1000 FISHIN per SOL, exactly 37% of the total token supply will be in the circulation!! (Remember that 37 from the formula? This is how the price will effect how much of the total token supply will be sold.)
+
+The theoretical maximum price is 0.02 SOL per 1 FISHIN, or 50 FISHIN per SOL, at which point approximately 85% of the token supply will be sold. Remember, 15% of the token supply will be airdropped during the project. 
+
+At this point 100% of the token supply will be in circulation, and the project will be taken over by the community!
+
+## Liquidity pools
+
+In an ideal world, the community would provide the liquidity pools for a community driven project. This would prevent rug-pulls and liquidity drains.
+
+Unfortunately, this is not an ideal world and at the beginning, the project will not be driven by the community.
+
+BUT it does not mean that we cannot guide things in the right direction:
+
+At the beginning we will provide a really-small initial liquidity. This way every larger buy will cause an up-swing, which in turn unlocks a portion of the tokens which will be sold on the open market. The proceedings from these sales will be added to the liquidity pool.
+
+Since it is very lucrative provide a larger portion of a small liquidity pool, we assume that more and more initial buyers will become liquidity providers. We have a very concrete idea how much assets a healthy liquidity pool holds. We will slowly reduce the participation in the liquidity pool. By the time the community takes over the healthy portion of the liquidity pool, our participation will become virtually meaningless.
 
 ## Why this is not a staking token?
+
+We know that is is trendy to make a staking token. And we like SOME of the staking cryptos (for example Solana), where you use a portion of your assets to trust a validator who secures the network.
+
+** BUT **
+
+For *some* of tokens (probably the majority), staking is nothing else, just a unnecessary inflation. Most of us came to crypto to avoid the inflation of the fiat currency. To replace fiat with an asset which have higher inflation than the fiat currency itself is generally not a smart idea.
+
+Not to mention the 20+ day unstaking periods in the market where time is usually measured in minutes.
+
+Our token will be strictly deflationary, by introducing the buyback and bur mechanism.
 
 
 # Airdrop
 
-# Revenue share
+# Buyback and Burn (A.K.A. Revenues Share)
 
-Buyback and burn
+Did I mention that the true value behind this token is the community?
+
+Some people know it very well. There will be times when we partner up with other crypto projects (airdrops, collaborations, cross-promotions).
+
+We have to find a way to give back to community. Since revenue share is still a legal grey-zone. To make it simple: if someone directly shares a revenue with the token holders, it fulfills the same function as a dividend, in which case the tokens fulfill the same function as shares, which falls into category as securities. (We are closely watching what will happen with Uniswap in the future!)
+
+Instead, we will use portion of the revenue to buy back the token on the open market, and then burn it.
+
+The effects will be two fold: 1st there is a buying pressure on the open market, 2nd the total token supply will be shirinking.
+
+This way we just introduced deflation!
 
 # Why should anyone invest in a token instead of the pase layer?
 
+# Riks warning
+
+Since the FISHIN price is quoted in Solana, there is a multiplication effect in dollar-terms: if the price of the Solana goes up, the smaller-cap altcoins (just like this one) on solana ecosystem gain value compared to Solana. Comparatively: if the Solana price declines, people lose interest in the smaller altcoins in the ecosystem, so they will (usually) fall in terms of Solana. This will result in wild price-swings on the both side. Please trade with caution.
+
+Non of us in the team are financial advisors, but consider the following:
+- never invest more than what you afford to lose
+- don't trade with leverage (especially not on crypto)
+- always self-custody of your crypto
+
 # Donations
 
-# Main goal
+# Long-term goals
 
 The ultimate goal is to make a community-driven coin
+Collaborations
+Airdrops
+Launching our own launchpad
+Selling real-life product in established stores, getting discounts if people pay with FISHIN'
+
+We have so many ideas, and this project can be so much then just a memcoin, hope you will help us achieve them!
