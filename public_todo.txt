@@ -5,8 +5,8 @@ create a real webpage
 finish the whitepaper
 proof-read the whitepaper
 finish the google form for the airdrop
-google form: after the responses, show the user how to make their own referre link + a link shortener
-setup a new wallet for donations
+licence for the website creator 
+pay for twitter premium
 
 completed:
 MOST IMPORTANT: design good tokenomics!
@@ -22,3 +22,9 @@ setup a new wallet for the geneis token, and fund it from kucoin
 start a reddit community (at least reserve the subreddit name)
 point to URL to the git repo first
 setup a burner wallet (all of the tokens which go there will be burnt)
+setup a new wallet for donations
+google form: after the responses, show the user how to make their own referre link + a link shortener
+
+
+
+
