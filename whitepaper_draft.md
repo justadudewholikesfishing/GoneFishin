@@ -176,6 +176,8 @@ Bonk monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
 
 # Riks warning
 
+## Meme tokens can behave like leveraged versions of the underlaying blockchains
+
 Since the FISHIN price is quoted in Solana, there is a multiplication effect in dollar-terms: if the price of the Solana goes up, the smaller-cap altcoins (just like this one) on solana ecosystem gain value compared to Solana. Comparatively: if the Solana price declines, people lose interest in the smaller altcoins in the ecosystem, so they will (usually) fall in terms of Solana. This will result in wild price-swings on the both side. Please trade with caution.
 
 Non of us in the team are financial advisors, but consider the following:

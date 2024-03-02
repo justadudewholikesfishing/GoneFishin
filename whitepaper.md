@@ -142,20 +142,9 @@ The effects will be two fold: 1st there is a buying pressure on the open market,
 
 This way we just introduced deflation!
 
-# Why should anyone invest in a token instead of the pase layer?
-
-Let us compare the performance of 2 successful memecoins on Solana blockchain VS Solana itself:
-
-[insert image]
-Solana monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
-
-[insert image]
-Bonk monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
-
-[insert image]
-Bonk monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
-
 # Riks warning
+
+## Meme tokens can behave like leveraged versions of the underlaying blockchains
 
 Since the FISHIN price is quoted in Solana, there is a multiplication effect in dollar-terms: if the price of the Solana goes up, the smaller-cap altcoins (just like this one) on solana ecosystem gain value compared to Solana. Comparatively: if the Solana price declines, people lose interest in the smaller altcoins in the ecosystem, so they will (usually) fall in terms of Solana. This will result in wild price-swings on the both side. Please trade with caution.
 
@@ -163,15 +152,3 @@ Non of us in the team are financial advisors, but consider the following:
 - never invest more than what you afford to lose
 - don't trade with leverage (especially not on crypto)
 - always self-custody of your crypto
-
-# Donations
-
-# Long-term goals
-
-The ultimate goal is to make a community-driven coin
-Collaborations
-Airdrops
-Launching our own launchpad
-Selling real-life product in established stores, getting discounts if people pay with FISHIN'
-
-We have so many ideas, and this project can be so much then just a memcoin, hope you will help us achieve them!
