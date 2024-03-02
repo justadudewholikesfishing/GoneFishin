@@ -38,12 +38,31 @@ As for me, I just want to go fishin'…
 
 # </ONE_PAGER>
 
+
+
+
+# Important info
+
+For all the crypto bro's and sis' out there:
+Airdrop date:
+Website:
+Whitepaper:
+Buy and sell - DEX (Radyum):
+Donations address (SOL):
+Liquidity pool:
+Token mint address:
+
 # Tokenomics
 
 The total token supply is: 1234567891
 Why? Because it is a prime number
 
 Token contract address (CA): https://solscan.io/token/CwoUyDERehjuMVuPQdWFLrYKXahFWDxeoJC2gxNjtW1Z 
+
+
+MENTION  THE DONATIONS!
+
+
 
 There are no angel investors, VCs, no "reserves for the team", nobody bought the token on pre-sale. The only way to obtain the token is on the open market or via the airdrop. This has the added benefit of no price-pressure from "early-investors".
 
