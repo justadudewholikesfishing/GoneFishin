@@ -2,35 +2,60 @@
 
 # Whitepaper
 
+## The Gone Fishin' project officially starts at 1st of May 2024. If you you are here, you are waaay yoo early!
+
 ## The whitepaper is subject to change, read it as a pre-alpha version!
 
-# One pager
+Gone Fishin' | The Token of the Free Folk | Built on Solana | 100% memecoin 0% BS
+
+Gone Fishin’ is not a token it is a community. It is a state of mind. It is about the freedom of choice. It is for the people who one day decide to get up from their desks, take back control of their lives, and do whatever the heck they want!
+
+As for me, I just want to go fishin'…
+
+
+
+# <ONE_PAGER>
 
 ### Core principles
 
-- Make fair tokenomics
-- Make the airdrop as fair as possible
 - The real value of this token is the community - build the right community first, the value will come later
+- Fairness: fair launch, fair tokenomics, fair airdrop
+- Sustainability: the project have to live on, even when the last token will be sold (some would say it will only then begin!)
 - Open up the project to the public from the very beginning - give everyone a chance to participate in the whole journey, not just the end result!
 
 ### Key features
 
-- The airdrop aims to be a real airdrop when tokens land directly in the wallet
-- Clean and simple tokenomics: 85% public sale, 15% airdrop
-- No VCs, no presales, no tiered fundraising, no "team allocation" or "fund allocation"
+- The airdrop aims to be a real airdrop when tokens land directly in your wallet
+- Clean and simple tokenomics: price-locked tokens, 85% public sale, 15% airdrop
+- No VCs, no presales, no tiered fundraising, no "team allocation" and no "fund allocation". The tokens are available for sale from the very beginning on the open market
 - No taxes on transactions
-- Renounced contract ownership
+- Renounced contract ownership (after we make it public, we cannot mint more coins or freeze the existing ones: verifiable on blockchain)
 - NOT a staking coin!
 - Give back to the community via token burns
-- Sustainability: the project will continue even when the last token will be sold off (some would say it will only then begin!)
-- Everyone is equal, even the team members have to purchase the coin if they want to participate in the ecosystem - if they believe in the core principles, they know it's worth it!
+- Everyone is equal, even the team members have to donate or purchase the coin if they want to participate in the ecosystem - if they believe in the core principles, they know it's worth it!
+
+# </ONE_PAGER>
+
+
+
+
+# Important info
+
+For all the crypto bro's and sis' out there:
+Airdrop:
+Website:
+Whitepaper:
+Buy and sell - DEX (Radyum):
+Donations address (SOL):
+Liquidity pool:
+Token mint address:
 
 # Tokenomics
 
 The total token supply is: 1234567891
 Why? Because it is a prime number
 
-
+Link to token mint address
 
 MENTION  THE DONATIONS!
 
@@ -83,6 +108,15 @@ The theoretical maximum price is 0.02 SOL per 1 FISHIN, or 50 FISHIN per SOL, at
 
 At this point 100% of the token supply will be in circulation, and the project will be taken over by the community!
 
+## Donations
+
+If you like what you read so far, consider donating for the project!
+Since donation is a leap of faith, we will generously reward every donator during the airdrop.
+To avoid spam transaction, the minimum donation for the airdrop reward is 0.01 SOL.
+ALL of the donations will be added to liquidity pool at the start of the project (1st of May, 2024)
+
+[QR code here]
+
 ## Liquidity pools
 
 In an ideal world, the community would provide the liquidity pools for a community driven project. This would prevent rug-pulls and liquidity drains.
@@ -125,6 +159,14 @@ The effects will be two fold: 1st there is a buying pressure on the open market,
 This way we just introduced deflation!
 
 # Why should anyone invest in a token instead of the pase layer?
+
+Let us compare the performance of 2 successful memecoins on Solana blockchain VS Solana itself:
+
+Solana monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
+
+Bonk monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
+
+Bonk monthly chart - taken on 1st of March 2024 - Source: CoinMarketCap.com
 
 # Riks warning
 
