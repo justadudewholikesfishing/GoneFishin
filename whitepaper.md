@@ -128,6 +128,9 @@ Our token will be strictly deflationary, by introducing the buyback and bur mech
 
 # Airdrop
 
+Details are coming soon, until then, the registrations is open here:
+https://docs.google.com/forms/d/e/1FAIpQLSd7OXeGRByHbVtRcuxGhx8H5v2p_xBQ6nO-JUXabQM6oYELfg/viewform?usp=pp_url&entry.2119423068=qBJtaj5UoYDxq3DSJsbdntTNRfKVCHCoLaoRHnN9w6d
+
 # Buyback and Burn (A.K.A. Revenues Share)
 
 Did I mention that the true value behind this token is the community?

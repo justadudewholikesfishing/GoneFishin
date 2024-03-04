@@ -1,22 +1,16 @@
 public_todo:
-make a telegram account
-set up a telegram bot
-create a real webpage
+
 finish the whitepaper
 proof-read the whitepaper
-finish the google form for the airdrop
-licence for the website creator 
+set up safeguard buybot once we have liquidity pool
+wait for blue checkmark on twitter premium
+
 
 TOMORROW:
-pay for twitter premium
-first-round of proof-reading the registration form
 first-round of proof-reading the whitepaper
+proof-reading the webpage
 set the images in the whitepaper
-set up the telegram bot!!
-	moderator bot
-	buy bot
-	safeguard
-	shield bots
+
 
 LAUNCH THE PROJECT!!!
 
@@ -37,7 +31,13 @@ point to URL to the git repo first
 setup a burner wallet (all of the tokens which go there will be burnt)
 setup a new wallet for donations
 google form: after the responses, show the user how to make their own referre link + a link shortener
-
-
-
+set up the telegram bot!!
+	safeguard --> this is the only one i need, supported by solana as well!
+pay for twitter premium
+first-round of proof-reading the registration form
+finish the google form for the airdrop
+licence for the website creator 
+make a telegram account
+set up a telegram bot
+create a real webpage
 
