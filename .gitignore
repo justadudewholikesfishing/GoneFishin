@@ -1,3 +1,7 @@
 private/*
 assets/logo/generated/*
 assets/logo/tmp/*
+
+fair_price_bot/DEV_key
+fair_price_bot/.vscode/*
+fair_price_bot/node_modules/*
