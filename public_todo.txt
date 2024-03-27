@@ -2,8 +2,11 @@ public_todo:
 
 finish the whitepaper
 proof-read the whitepaper
-set up safeguard buybot once we have liquidity pool
-wait for blue checkmark on twitter premium
+set up safeguard + buybot once we have liquidity pool
+start the fair price bot
+add to the liquidity
+begin the marketing
+
 
 
 TOMORROW:
@@ -40,5 +43,7 @@ licence for the website creator
 make a telegram account
 set up a telegram bot
 create a real webpage
+wait for blue checkmark on twitter premium
+
 
 AJZBLcmGzAib5iJFPW5MQ5BJvvr9Lp1xZz32WB6jGW11

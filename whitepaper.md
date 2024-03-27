@@ -67,7 +67,7 @@ This way, if the project is successful, it will increase the price, and more tok
 
 This can be mathematically defined in a simple and elegant way:
 
-token_price_in_SOL = 0.0001 ^ (token_supply_percent / 37)
+token_price_in_SOL = 0.0001 * 10 ^ (token_supply_percent_sold / 37)
 
 Why 37 you ask? Excellent question! Because it is a prime number!
 
