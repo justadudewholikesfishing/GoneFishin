@@ -7,19 +7,14 @@ from requests_oauthlib import OAuth1Session
 CREDENTIALS_FILE = "twitter_credentials.json"
 
 def authenticate():
-    consumer_key = os.environ.get("CONSUMER_KEY")
-    consumer_secret = os.environ.get("CONSUMER_SECRET")
-
-    if consumer_key is None or consumer_secret is None:
-        print("Consumer key or consumer secret is missing.")
 
     # Check if credentials file exists
     if not os.path.exists(CREDENTIALS_FILE):
         print(f"Please create {CREDENTIALS_FILE} file with the following content:")
         content = """
 {
-    "consumer_key": "YOUR_CONSUMER_KEY",
-    "consumer_secret": "YOUR_CONSUMER_SECRET",
+    "api_key": "YOUR_CONSUMER_KEY",
+    "api_key_secret": "YOUR_CONSUMER_SECRET",
 }
         """
         print(content)
@@ -28,13 +23,19 @@ def authenticate():
     with open(CREDENTIALS_FILE, 'r') as file:
         creds = json.load(file)
 
-    if("consumer_key" in creds and "consumer_secret" in creds and "access_token" in creds and "access_token_secret" in creds):
-        return creds["consumer_key"], creds["consumer_secret"], creds["access_token"], creds["access_token_secret"]
+    if("api_key" in creds and "api_key_secret" in creds and "access_token" in creds and "access_token_secret" in creds):
+        return creds["api_key"], creds["api_key_secret"], creds["access_token"], creds["access_token_secret"]
 
+    if(not "api_key" in creds):
+        raise Exception("api_key is missing from {CREDENTIALS_FILE}")
+
+    if(not "api_key_secret" in creds):
+        raise Exception("api_key_secret is missing from {CREDENTIALS_FILE}")
+    
     # Otherwise proceed with authentication
     # Get request token
     request_token_url = "https://api.twitter.com/oauth/request_token?oauth_callback=oob&x_auth_access_type=write"
-    oauth = OAuth1Session(consumer_key, client_secret=consumer_secret)
+    oauth = OAuth1Session(creds["api_key"], client_secret=creds["api_key_secret"])
     fetch_response = oauth.fetch_request_token(request_token_url)
 
     resource_owner_key = fetch_response.get("oauth_token")
@@ -50,27 +51,22 @@ def authenticate():
     # Get the access token
     access_token_url = "https://api.twitter.com/oauth/access_token"
     oauth = OAuth1Session(
-        consumer_key,
-        client_secret=consumer_secret,
+        creds["api_key"],
+        client_secret=creds["api_key_secret"],
         resource_owner_key=resource_owner_key,
         resource_owner_secret=resource_owner_secret,
         verifier=verifier,
     )
     oauth_tokens = oauth.fetch_access_token(access_token_url)
 
-    access_token = oauth_tokens["oauth_token"]
-    access_token_secret = oauth_tokens["oauth_token_secret"]
+    creds["access_token"] = oauth_tokens["oauth_token"]
+    creds["access_token_secret"] = oauth_tokens["oauth_token_secret"]
 
     # Save the credentials to a file
     with open(CREDENTIALS_FILE, 'w') as file:
-        json.dump({
-            "consumer_key": consumer_key,
-            "consumer_secret": consumer_secret,
-            "access_token": access_token,
-            "access_token_secret": access_token_secret
-        }, file)
+        json.dump(creds, file, indent=4)
 
-    return consumer_key, consumer_secret, access_token, access_token_secret
+    return creds["api_key"], creds["api_key_secret"], creds["access_token"], creds["access_token_secret"]
 
 if __name__ == '__main__':
     authenticate()
