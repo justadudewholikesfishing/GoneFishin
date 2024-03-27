@@ -5,3 +5,6 @@ assets/logo/tmp/*
 fair_price_bot/private/*
 fair_price_bot/.vscode/*
 fair_price_bot/node_modules/*
+
+twitter_bot/twitter_credentials.json
+twitter_bot/.vscode/*
